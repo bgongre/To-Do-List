@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    display: inline-block;
+    width: auto;
+    margin: auto;
+    border-bottom: 2px solid black;
+    padding: 0 20px 5px;
+}
+
+span {
+    font-size: 1.2em;
+    line-height: 2em;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+#enter {
+    background-color: aquamarine;
+    border-radius: 4px;
+}
+
+.second {
+    font-weight: 600;
+    text-decoration: underline;
+    background-color: yellow;
+    display: inline-block;
+    color: #ff4d4d;
+}
+
+.newLi {
+    width: 15em;
+    font-family: Arial, Helvetica, sans-serif;
+    word-wrap: normal;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content {
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.deleteBtn {
+    margin-left: 1em;
+    margin-top: .5em;
+    border-radius: 4px;
+    background-color: #ff8080
+}
